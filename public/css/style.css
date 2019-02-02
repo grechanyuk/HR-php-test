@@ -1,0 +1,11 @@
+.ajax-editable.sending {
+    border: 1px solid yellow;
+}
+
+.ajax-editable.error {
+    border: 1px solid red;
+}
+
+.ajax-editable.success {
+    border: 1px solid green;
+}
